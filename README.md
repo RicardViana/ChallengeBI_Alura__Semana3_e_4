@@ -1,6 +1,6 @@
-## Challenge BI - Financeiro*
+## Challenge BI - Financeiro
 
-Rápida descrição do objetivo de fazer esse projeto
+Praticar o desenvolvimento de relatórios gerencias utilizando o Power BI
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
