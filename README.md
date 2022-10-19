@@ -4,18 +4,18 @@ Praticar o desenvolvimento de relatórios gerencias utilizando o Power BI
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Semana 3 e 4 - Financeiro**
-| :label: Tecnologias | Power BI, SQL (tecnologias utilizadas)
+| :sparkles: Nome        | **Challenge BI - Financeiro**
+| :label: Tecnologias | Power BI, SQL
 | :rocket: URL         | https://bit.ly/dashboarddefinanças
 | :fire: Desafio     | https://www.alura.com.br/challenges/bi
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 
 **Overview financeiro**
-![image](https://user-images.githubusercontent.com/62486279/135931730-dd62ae27-431b-448b-911f-5783f904973d.png#vitrinedev)
+![image](https://user-images.githubusercontent.com/62486279/135931730-dd62ae27-431b-448b-911f-5783f904973d.png?#vitrinedev)
 
 **Análise de cenário**
-![image](https://user-images.githubusercontent.com/62486279/135931070-ef61471b-d337-4a3a-a871-a3e1348a7da4.png#vitrinedev)
+![image](https://user-images.githubusercontent.com/62486279/135931070-ef61471b-d337-4a3a-a871-a3e1348a7da4.png?#vitrinedev)
 
 ## Detalhes do projeto
 
